@@ -26,7 +26,7 @@ struct ContentView: View {
                     Image(systemName: "plus.slash.minus")
                     Text("Logic Calculator")
                 }
-        }
+        }.navigationViewStyle(StackNavigationViewStyle())
     }
 }
 
