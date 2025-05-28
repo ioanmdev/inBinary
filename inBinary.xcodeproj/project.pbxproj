@@ -304,9 +304,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"inBinary/Preview Content\"";
-				DEVELOPMENT_TEAM = T668NHM4S8;
+				DEVELOPMENT_TEAM = J2ZHV5HQ5C;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = inBinary/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -314,7 +314,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = ro.ioanm.inBinary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -329,9 +329,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 7;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"inBinary/Preview Content\"";
-				DEVELOPMENT_TEAM = T668NHM4S8;
+				DEVELOPMENT_TEAM = J2ZHV5HQ5C;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = inBinary/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
@@ -339,7 +339,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 2.0;
 				PRODUCT_BUNDLE_IDENTIFIER = ro.ioanm.inBinary;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
